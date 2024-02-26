@@ -175,10 +175,8 @@ G F <BR>
 
 ![image](https://github.com/KameshLeVI/19AI405ExpNo3/assets/120780633/9d967fb2-f85c-4c12-9f66-91817fb40458)
 
-
-
-
 <h3>Result:</h3>
 <hr>
+
 <p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
 
